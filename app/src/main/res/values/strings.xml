@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Networking</string>
+    <string name="loading">Loading user…</string>
+    <string name="loading_rep">Loading rep…</string>
+</resources>
